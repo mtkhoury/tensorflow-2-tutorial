@@ -14,13 +14,9 @@ First, we aim to approach TensorFlow 2.0 from a practical point of view so that 
 - **Part #1**: [TensorFlow Architecture](https://github.com/iust-deep-learning/tensorflow-2-tutorial/tree/master/part_01_tf_architecture)
 - **Part #2**: [Tensors and Basic Operations](https://github.com/iust-deep-learning/tensorflow-2-tutorial/tree/master/part_02_tensors_and_basic_ops)
 - **Part #3**: [Model Design APIs](https://github.com/iust-deep-learning/tensorflow-2-tutorial/tree/master/part_03_model_design_apis)
-- **Part #4**: [Model Training APIs](https://github.com/iust-deep-learning/tensorflow-2-tutorial/tree/master/part_04_model_training_apis)
-- **Part #5**: [TensorFlow Input Data Pipeline](https://github.com/iust-deep-learning/tensorflow-2-tutorial/tree/master/part_05_tf_data)
-- **Part #6**: [Saving the Model](https://github.com/iust-deep-learning/tensorflow-2-tutorial/tree/master/part_06_saving_and_restoring_models)
-- **Part #7**: Transfer Learning & TensorHub
-- **Part #8**: TensorBoard
-- **Part #9**: TF 2.0 for NLP
-- **Part #10**: TF 2.0 for Computer Vision
+- **Part #4**: [TensorFlow Input Data Pipeline](https://github.com/iust-deep-learning/tensorflow-2-tutorial/tree/master/part_05_tf_data)
+- **Part #5**: Transfer Learning & TensorHub
+
 
 ## Contributing 
 This set of tutorials is considered as an open-source community-driven project. Therefore, all kinds of contributions such as fix, new content, or new section are welcome. To have a consistent and coherent matertial, we have designed a set of rules and guides for contributions.
